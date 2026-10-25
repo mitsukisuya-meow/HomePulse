@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="700" viewBox="0 0 2400 700">
+<g transform="translate(55 65)">
+ <path d="M35 360 L125 275 L125 150 L205 150 L205 205 L285 125 L475 315 L475 515 L35 515 Z" fill="none" stroke="#fff" stroke-width="42" stroke-linejoin="round"/>
+ <path d="M215 335 L295 335 L295 515 L215 515 Z" fill="#fff"/>
+ <path d="M75 455 L35 515 L0 515 L75 430 Z" fill="#fff" opacity=".9"/>
+ <path d="M135 445 L205 375 L270 445" fill="none" stroke="#fff" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="610" y="470" font-family="Inter, Lato, Arial, sans-serif" font-size="315" font-weight="700" letter-spacing="-12" fill="#fff">HomePulse</text>
+</svg>
